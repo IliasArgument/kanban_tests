@@ -44,7 +44,7 @@ const CardCreateForm = ({ onSubmit }) => {
           <Button className="Card_add" mode="commerce" onClick={submit}>
             Создать карточку
           </Button>
-          <Button mode="destructive" onClick={reset}>
+          <Button className="Card_dlt" mode="destructive" onClick={reset}>
             Отменить
           </Button>
         </Div>
