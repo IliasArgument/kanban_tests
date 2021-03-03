@@ -1,3 +1,8 @@
+# discription
+My Kanban project
+
+In this project, I used the VKUI library to work with ready-made components, which accelerated my work, I also learned to work with the firebase database from where I pulled up the data, learned how to create custom hooks, which made the code cleaner and more understandable.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
