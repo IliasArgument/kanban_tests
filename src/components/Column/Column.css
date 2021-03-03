@@ -1,0 +1,47 @@
+.Column .Panel__in {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.Panel {
+    text-align: center;
+}
+
+.Columns {
+    box-shadow: border-box;
+    background: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+
+.Column_div {
+    box-sizing: border-box;
+    width: 95%;
+}
+
+.Column_header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    color: white;
+}
+
+.Head_card {
+    color: white;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.Header__content-base {
+    color: white;
+    font-size: 1.4rem;
+}
+
+.Btn__header {
+    border: none;
+    padding-right: 13px;
+    color: white;
+    font-weight: bold;
+}
+

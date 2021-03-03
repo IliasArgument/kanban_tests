@@ -1,0 +1,5 @@
+.cardGrid {
+    min-width: 90%;
+    display:flex;
+    margin: 10px auto;
+}

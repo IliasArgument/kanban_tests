@@ -1,0 +1,46 @@
+.Card_columns {
+    min-width: 100%;
+    margin: 0 auto;
+
+}
+.Panel {
+    text-align: center;
+    font-size: 1rem;
+    color:rgb(0, 0, 0);
+}
+
+.Columns {
+    box-shadow: border-box;
+    background: rgb(201, 82, 82);
+    padding: 10px;
+}
+
+.Column_div {
+    box-sizing: border-box;
+}
+
+.Column_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.Column__list {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    height: auto;
+    background: rgba(50, 117, 90, 0.562);
+}
+
+.Column__list .Gallery__viewport {
+    flex-grow: 1;
+}
+.Column_head {
+    font-size: 1.4rem;
+    font-weight: 700;
+    font-family: Consolas;
+}
+.Panel__in {
+    min-height: 100vh;
+}
